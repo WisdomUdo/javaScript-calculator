@@ -2,7 +2,7 @@
 
 A responsive, modern calculator built with **HTML**, **CSS**, and **JavaScript**. It features **keyboard input**, **dark mode toggle**, and **calculation history** using local storage.
 
-![Calculator Preview](./screenshot.png)
+![Calculator Preview](https://github.com/WisdomUdo/javaScript-calculator/blob/main/Screenshot.png)
 
 ---
 
