@@ -2,7 +2,7 @@
 
 A responsive, modern calculator built with **HTML**, **CSS**, and **JavaScript**. It features **keyboard input**, **dark mode toggle**, and **calculation history** using local storage.
 
-![Calculator Preview](javaScript-calculator/.screenshot.png)
+![Calculator Preview](../screenshot.png)
 
 ---
 
